@@ -1,0 +1,21 @@
+# assembler / build output
+*.o
+*.lst
+a.out
+core
+
+# built executables
+examples
+nasm_segments
+
+# editor / swap
+*~
+*.swp
+*.swo
+.\#*
+\#*\#
+
+# os / ide
+.DS_Store
+.vscode/
+.idea/
